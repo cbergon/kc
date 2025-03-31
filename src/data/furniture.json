@@ -91,14 +91,18 @@
 					"id": 0,
 					"name": "Red Velvet Sofa",
 					"quality": "luxurious",
-					"type": "",
+					"type": "Chairs",
 					"load": 109,
 					"comfort_per_enhancement_level": [
 						{
-							"0": 463
+							"0": 463,
+							"1": 694,
+							"2": 926,
+							"3": 1157,
+							"4": 1389
 						}
 					],
-					"owned": false
+					"owned": "monnoira"
 				},
 				{
 					"id": 1,
@@ -172,14 +176,18 @@
 					"id": 5,
 					"name": "Red Velvet Couch",
 					"quality": "elegant",
-					"type": "",
+					"type": "Chairs",
 					"load": 46,
 					"comfort_per_enhancement_level": [
 						{
-							"0": 176
+							"0": 176,
+							"1": 264,
+							"2": 352,
+							"3": 440,
+							"4": 528
 						}
 					],
-					"owned": false
+					"owned": "mila"
 				},
 				{
 					"id": 6,
@@ -377,14 +385,18 @@
 					"id": 0,
 					"name": "Antique Table",
 					"quality": "luxurious",
-					"type": "",
+					"type": "Tables",
 					"load": 224,
 					"comfort_per_enhancement_level": [
 						{
-							"0": 952
+							"0": 952,
+							"1": 1428,
+							"2": 1904,
+							"3": 2380,
+							"4": 2856
 						}
 					],
-					"owned": false
+					"owned": "cherry"
 				},
 				{
 					"id": 1,
@@ -629,14 +641,18 @@
 					"id": 0,
 					"name": "Olive Table",
 					"quality": "luxurious",
-					"type": "",
+					"type": "Tables",
 					"load": 132,
 					"comfort_per_enhancement_level": [
 						{
-							"0": 561
+							"0": 561,
+							"1": 841,
+							"2": 1122,
+							"3": 1402,
+							"4": 1683
 						}
 					],
-					"owned": false
+					"owned": "cherry"
 				},
 				{
 					"id": 1,
@@ -659,14 +675,18 @@
 					"id": 2,
 					"name": "Songbird's Paradise",
 					"quality": "luxurious",
-					"type": "",
+					"type": "Decor",
 					"load": 50,
 					"comfort_per_enhancement_level": [
 						{
-							"0": 213
+							"0": 213,
+							"1": 319,
+							"2": 426,
+							"3": 532,
+							"4": 639
 						}
 					],
-					"owned": false
+					"owned": "cherry"
 				},
 				{
 					"id": 3,
@@ -689,27 +709,35 @@
 					"id": 4,
 					"name": "Olive Armchair",
 					"quality": "elegant",
-					"type": "",
+					"type": "Chairs",
 					"load": 63,
 					"comfort_per_enhancement_level": [
 						{
-							"0": 241
+							"0": 241,
+							"1": 361,
+							"2": 482,
+							"3": 602,
+							"4": 723
 						}
 					],
-					"owned": false
+					"owned": "mila"
 				},
 				{
 					"id": 5,
 					"name": "Golden Bed",
 					"quality": "elegant",
-					"type": "",
+					"type": "Beds",
 					"load": 40,
 					"comfort_per_enhancement_level": [
 						{
-							"0": 153
+							"0": 153,
+							"1": 229,
+							"2": 306,
+							"3": 382,
+							"4": 459
 						}
 					],
-					"owned": false
+					"owned": "cherry"
 				},
 				{
 					"id": 6,
@@ -732,14 +760,18 @@
 					"id": 7,
 					"name": "Ode to Freedom",
 					"quality": "elegant",
-					"type": "",
+					"type": "Decor",
 					"load": 63,
 					"comfort_per_enhancement_level": [
 						{
-							"0": 241
+							"0": 241,
+							"1": 361,
+							"2": 482,
+							"3": 602,
+							"4": 723
 						}
 					],
-					"owned": false
+					"owned": "cherry"
 				},
 				{
 					"id": 8,
@@ -920,27 +952,35 @@
 					"id": 0,
 					"name": "Sunset Table",
 					"quality": "luxurious",
-					"type": "",
+					"type": "Tables",
 					"load": 156,
 					"comfort_per_enhancement_level": [
 						{
-							"0": 663
+							"0": 663,
+							"1": 994,
+							"2": 1326,
+							"3": 1657,
+							"4": 1989
 						}
 					],
-					"owned": false
+					"owned": "agathea"
 				},
 				{
 					"id": 1,
 					"name": "Sunset Chair",
 					"quality": "luxurious",
-					"type": "",
+					"type": "Chairs",
 					"load": 69,
 					"comfort_per_enhancement_level": [
 						{
-							"0": 293
+							"0": 293,
+							"1": 439,
+							"2": 586,
+							"3": 732,
+							"4": 879
 						}
 					],
-					"owned": false
+					"owned": "cherry"
 				},
 				{
 					"id": 2,
@@ -1206,14 +1246,18 @@
 					"id": 1,
 					"name": "Sunset Bar",
 					"quality": "luxurious",
-					"type": "",
+					"type": "Wardrobe",
 					"load": 133,
 					"comfort_per_enhancement_level": [
 						{
-							"0": 565
+							"0": 565,
+							"1": 847,
+							"2": 1130,
+							"3": 1412,
+							"4": 1695
 						}
 					],
-					"owned": false
+					"owned": "agathea"
 				},
 				{
 					"id": 2,
@@ -1270,27 +1314,35 @@
 					"id": 5,
 					"name": "Dionysus' Cart",
 					"quality": "elegant",
-					"type": "",
+					"type": "Decor",
 					"load": 101,
 					"comfort_per_enhancement_level": [
 						{
-							"0": 386
+							"0": 386,
+							"1": 579,
+							"2": 772,
+							"3": 965,
+							"4": 1158
 						}
 					],
-					"owned": false
+					"owned": "monnoira"
 				},
 				{
 					"id": 6,
 					"name": "Dusk",
 					"quality": "elegant",
-					"type": "",
+					"type": "Decor",
 					"load": 38,
 					"comfort_per_enhancement_level": [
 						{
-							"0": 145
+							"0": 145,
+							"1": 217,
+							"2": 290,
+							"3": 362,
+							"4": 435
 						}
 					],
-					"owned": false
+					"owned": "monnoira"
 				},
 				{
 					"id": 7,
@@ -1505,66 +1557,86 @@
 					"id": 1,
 					"name": "Lush Greenery",
 					"quality": "luxurious",
-					"type": "",
+					"type": "Decor",
 					"load": 82,
 					"comfort_per_enhancement_level": [
 						{
-							"0": 349
+							"0": 349,
+							"1": 523,
+							"2": 698,
+							"3": 872,
+							"4": 1047
 						}
 					],
-					"owned": false
+					"owned": "cherry"
 				},
 				{
 					"id": 2,
 					"name": "The Wanderer",
 					"quality": "luxurious",
-					"type": "",
+					"type": "Ceiling Decor",
 					"load": 60,
 					"comfort_per_enhancement_level": [
 						{
-							"0": 255
+							"0": 255,
+							"1": 382,
+							"2": 510,
+							"3": 637,
+							"4": 765
 						}
 					],
-					"owned": false
+					"owned": "mila"
 				},
 				{
 					"id": 3,
 					"name": "Tassel Shadows",
 					"quality": "luxurious",
-					"type": "",
+					"type": "Ceiling Decor",
 					"load": 127,
 					"comfort_per_enhancement_level": [
 						{
-							"0": 540
+							"0": 540,
+							"1": 810,
+							"2": 1080,
+							"3": 1350,
+							"4": 1620
 						}
 					],
-					"owned": false
+					"owned": "cherry"
 				},
 				{
 					"id": 4,
 					"name": "Cream Wood Stripe Wall",
 					"quality": "elegant",
-					"type": "",
+					"type": "Walls",
 					"load": 13,
 					"comfort_per_enhancement_level": [
 						{
-							"0": 50
+							"0": 50,
+							"1": 75,
+							"2": 100,
+							"3": 125,
+							"4": 150
 						}
 					],
-					"owned": false
+					"owned": "cherry"
 				},
 				{
 					"id": 5,
 					"name": "Contrasting Rhombus Carpet",
 					"quality": "elegant",
-					"type": "",
+					"type": "Carpet",
 					"load": 13,
 					"comfort_per_enhancement_level": [
 						{
-							"0": 50
+							"0": 50,
+							"1": 75,
+							"2": 100,
+							"3": 125,
+							"4": 150
 						}
 					],
-					"owned": false
+					"owned": "cherry"
 				},
 				{
 					"id": 6,
@@ -1821,56 +1893,6 @@
 					],
 					"owned": true
 				}
-			]
-		}
-	],
-	"currently_missing": [
-		{
-			"theme": "Red Velvet",
-			"items": [
-				"Red Velvet Sofa",
-				"Red Velvet Couch"
-			]
-		},
-		{
-			"theme": "Antique Splendor",
-			"items": [
-				"Antique Table"
-			]
-		},
-		{
-			"theme": "Touch of Romance",
-			"items": [
-				"Olive Table",
-				"Songbird's Paradise",
-				"Olive Armchair",
-				"Golden Bed",
-				"Ode to Freedom"
-			]
-		},
-		{
-			"theme": "Fiery Sunset",
-			"items": [
-				"Sunset Table",
-				"Sunset Chair"
-			]
-		},
-		{
-			"theme": "Sunset Lounge",
-			"items": [
-				"Sunset Bar",
-				"Dionysus' Cart",
-				"Dusk"
-			]
-		},
-		{
-			"theme": "Bohemian Rhapsody",
-			"items": [
-				"Lush Greenery",
-				"The Wanderer",
-				"Tassel Shadows",
-				"Cream Wood Stripe Wall",
-				"Contrasting Rhombus Carpet"
 			]
 		}
 	]

@@ -6,10 +6,12 @@
       "@components/*": ["./src/components/*"],
       "@services/*": ["./src/services/*"],
       "@models/*": ["./src/models/*"],
+      "@data/*": ["./src/data/*"],
       "@helpers/*": ["./src/helpers/*"],
 
-      "@document/*": ["./src/modules/document/*"],
-      "@search/*": ["./src/modules/search/*"],
+      "@actions/*": ["./src/modules/actions/*"],
+      "@planner/*": ["./src/modules/planner/*"],
+      "@user-setup/*": ["./src/modules/user-setup/*"],
       "@shared/*": ["./src/modules/shared/*"],
 
       "@app/*": ["./src/*"]

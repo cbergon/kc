@@ -1,0 +1,86 @@
+{
+	"furniture_quality": [
+		{
+			"label": "Fine Furniture",
+			"name": "fine",
+			"color": "blue"
+		},
+		{
+			"label": "Elegant Furniture",
+			"name": "elegant",
+			"color": "purple"
+		},
+		{
+			"label": "Luxurious Furniture",
+			"name": "luxurious",
+			"color": "gold"
+		}
+	],
+	"furniture_types": [
+		{
+			"label": "Walls",
+			"category": "Walls",
+			"location": "wall"
+		},
+		{
+			"label": "Flooring",
+			"category": "Flooring",
+			"location": "floor"
+		},
+		{
+			"label": "Carpet",
+			"category": "Carpet",
+			"location": "carpet"
+		},
+		{
+			"label": "Tables",
+			"category": "Tables",
+			"location": "furniture"
+		},
+		{
+			"label": "Chairs",
+			"category": "Chairs",
+			"location": "furniture"
+		},
+		{
+			"label": "Beds",
+			"category": "Beds",
+			"location": "furniture"
+		},
+		{
+			"label": "Wardrobes",
+			"category": "Cabinets",
+			"location": "furniture"
+		},
+		{
+			"label": "Wall Lamps",
+			"category": "Wall Lamps",
+			"location": "wall_decor"
+		},
+		{
+			"label": "Wall Decor",
+			"category": "Wall Decor",
+			"location": "wall_decor"
+		},
+		{
+			"label": "Decor",
+			"category": "Decor",
+			"location": "furniture"
+		},
+		{
+			"label": "Chimneys",
+			"category": "Cabinets",
+			"location": "furniture"
+		},
+		{
+			"label": "Ceiling Decor",
+			"category": "Ceiling Decor",
+			"location": "ceiling_decor"
+		},
+		{
+			"label": "Wallpaper",
+			"caetgory": "Wallpaper",
+			"location": "wallpaper"
+		}
+	]
+}

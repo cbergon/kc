@@ -1,4 +1,9 @@
 {
+	"room_dimensions": {
+		"x": 44,
+		"y": 16,
+		"z": 14
+	},
 	"generated_charm_per_room_level": [
 		{
 			"room_level": "B1",
